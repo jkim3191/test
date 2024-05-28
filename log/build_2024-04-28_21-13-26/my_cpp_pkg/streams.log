@@ -1,0 +1,10 @@
+[0.005s] Invoking command in '/home/jay/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jay/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/jay/ros2_ws/build/my_cpp_pkg -- -j24 -l24
+[0.034s] [ 50%] [32mBuilding CXX object CMakeFiles/cpp_node.dir/src/my_first_node.cpp.o[0m
+[1.044s] [01m[K/home/jay/ros2_ws/src/my_cpp_pkg/src/my_first_node.cpp:[m[K In member function ‘[01m[Kvoid MyNode::timerCallback()[m[K’:
+[1.044s] [01m[K/home/jay/ros2_ws/src/my_cpp_pkg/src/my_first_node.cpp:18:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+[1.044s]    18 |     [01;31m[K}[m[K
+[1.044s]       |     [01;31m[K^[m[K
+[1.255s] gmake[2]: *** [CMakeFiles/cpp_node.dir/build.make:76: CMakeFiles/cpp_node.dir/src/my_first_node.cpp.o] Error 1
+[1.256s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/cpp_node.dir/all] Error 2
+[1.256s] gmake: *** [Makefile:146: all] Error 2
+[1.258s] Invoked command in '/home/jay/ros2_ws/build/my_cpp_pkg' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jay/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/jay/ros2_ws/build/my_cpp_pkg -- -j24 -l24

@@ -1,0 +1,28 @@
+[0.478s] Invoking command in '/home/jay/ros2_ws/build/my_py_pkg': PYTHONPATH=/home/jay/ros2_ws/build/my_py_pkg/prefix_override:/home/jay/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/jay/ros2_ws/build/my_py_pkg/build --no-deps symlink_data
+[0.622s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[0.622s]   warnings.warn(
+[0.648s] running develop
+[0.649s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.649s]   warnings.warn(
+[0.745s] running egg_info
+[0.745s] writing my_py_pkg.egg-info/PKG-INFO
+[0.745s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[0.745s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[0.745s] writing requirements to my_py_pkg.egg-info/requires.txt
+[0.745s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[0.746s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.747s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.748s] running build_ext
+[0.748s] Creating /home/jay/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[0.749s] Installing add_two_ints_client script to /home/jay/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.749s] Installing add_two_ints_client_no_oop script to /home/jay/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.749s] Installing add_two_ints_server script to /home/jay/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.749s] Installing number_counter script to /home/jay/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.749s] Installing number_publisher script to /home/jay/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.749s] Installing py_node script to /home/jay/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.750s] Installing robot_news_station script to /home/jay/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.750s] Installing smartphone script to /home/jay/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.750s] 
+[0.750s] Installed /home/jay/ros2_ws/build/my_py_pkg
+[0.750s] running symlink_data
+[0.771s] Invoked command in '/home/jay/ros2_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/jay/ros2_ws/build/my_py_pkg/prefix_override:/home/jay/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/jay/ros2_ws/build/my_py_pkg/build --no-deps symlink_data

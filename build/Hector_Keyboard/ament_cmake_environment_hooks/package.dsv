@@ -1,0 +1,4 @@
+source;share/Hector_Keyboard/local_setup.bash
+source;share/Hector_Keyboard/local_setup.dsv
+source;share/Hector_Keyboard/local_setup.sh
+source;share/Hector_Keyboard/local_setup.zsh

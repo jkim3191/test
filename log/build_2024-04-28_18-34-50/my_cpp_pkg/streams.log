@@ -1,0 +1,36 @@
+[0.007s] Invoking command in '/home/jay/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jay/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/jay/ros2_ws/build/my_cpp_pkg -- -j24 -l24
+[0.021s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.084s] -- Found rclcpp: 16.0.8 (/opt/ros/humble/share/rclcpp/cmake)
+[0.099s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.100s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.103s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.109s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.118s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.149s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.150s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.210s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.294s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.331s] -- Added test 'lint_cmake' to check CMake code style
+[0.331s] -- Added test 'xmllint' to check XML markup files
+[0.331s] -- Configuring done
+[0.334s] -- Generating done
+[0.334s] -- Build files have been written to: /home/jay/ros2_ws/build/my_cpp_pkg
+[0.349s] Invoked command in '/home/jay/ros2_ws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jay/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/jay/ros2_ws/build/my_cpp_pkg -- -j24 -l24
+[0.364s] Invoking command in '/home/jay/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jay/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/jay/ros2_ws/build/my_cpp_pkg
+[0.367s] -- Install configuration: ""
+[0.367s] -- Up-to-date: /home/jay/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/package_run_dependencies/my_cpp_pkg
+[0.367s] -- Installing: /home/jay/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/parent_prefix_path/my_cpp_pkg
+[0.367s] -- Up-to-date: /home/jay/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.sh
+[0.367s] -- Installing: /home/jay/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.dsv
+[0.368s] -- Up-to-date: /home/jay/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.sh
+[0.368s] -- Installing: /home/jay/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.dsv
+[0.368s] -- Up-to-date: /home/jay/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.bash
+[0.368s] -- Up-to-date: /home/jay/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.sh
+[0.368s] -- Up-to-date: /home/jay/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.zsh
+[0.368s] -- Installing: /home/jay/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.dsv
+[0.368s] -- Installing: /home/jay/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.dsv
+[0.368s] -- Up-to-date: /home/jay/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/packages/my_cpp_pkg
+[0.368s] -- Up-to-date: /home/jay/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig.cmake
+[0.368s] -- Up-to-date: /home/jay/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig-version.cmake
+[0.368s] -- Installing: /home/jay/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.xml
+[0.369s] Invoked command in '/home/jay/ros2_ws/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/jay/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/jay/ros2_ws/build/my_cpp_pkg
